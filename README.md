@@ -38,4 +38,4 @@ Add your wins, mark them as completed, delete them, and track your daily streak.
 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/daily-small-wins-tracker.git
+git clone https://github.com/sohanakhan45566-sudo/daily-small-wins-tracker.git
